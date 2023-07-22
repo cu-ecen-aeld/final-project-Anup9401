@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_SWITCH
+	bool "SWITCH"
+	help
+	  Includes the executable, scripts in the kernel image.
+	  Used to interface BBB pins with push button switch.
