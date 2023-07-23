@@ -1,2 +1,3 @@
 source "$BR2_EXTERNAL_project_base_PATH/package/led/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/switch/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/ledSwitch/Config.in"
