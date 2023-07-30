@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_MOTORSWITCH
+	bool "MOTORSWITCH"
+	help
+	  Includes the executable, scripts in the kernel image.
+	  Used to interface BBB pins with DC motors that are controlled by external switches.
